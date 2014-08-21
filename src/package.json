@@ -17,14 +17,43 @@
     "spriting",
     "control",
     "component",
-    "isomorphic"
+    "isomorphic",
+    "less",
+    "webpack",
+    "yuidoc",
+    "kss",
+    "manifest",
+    "minify",
+    "uglify",
+    "router"
   ],
   "bin": {
     "choprify": "./bin/crap"
   },
   "dependencies": {},
   "peerDependencies": {
-    "gulp": "*"
+
+    "gulp"               : "*",
+    "gulp-clean"         : "*",
+    "gulp-less"          : "*",
+    "gulp-bump"          : "*",
+    "gulp-uglifyjs"      : "*",
+    "gulp-yuidoc"        : "*",
+    "gulp-sloc"          : "*",
+    "gulp-manifest"      : "*",
+    "gulp-stylestats"    : "*",
+    "gulp-sitemap-files" : "*",
+    "gulp-todos"         : "*",
+    "gulp-react"         : "*",
+    "gulp-minify-css"    : "*",
+    "gulp-kss"           : "*",
+    "gulp-sprite-glue"   : "*",
+
+    "webpack"            : "*",
+
+    "react"              : "*",
+    "react-router"       : "*"
+
   },
   "engines": {
     "node": "*"
