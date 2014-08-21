@@ -24,7 +24,7 @@
   },
   "dependencies": {},
   "peerDependencies": {
-
+    "gulp" : "*"
   },
   "engines": {
     "node": "*"
