@@ -22,3 +22,11 @@ This isn't even starting on being ready yet.  At this point it's little more
 than a gulpfile and a package.  I wouldn't have filed this yet, except that some
 of what I'm doing means this needs to be on `npm` for testing.
 
+
+
+
+
+Requirements
+------------
+
+`node.js` >= 0.9 (because of `minimist`)
