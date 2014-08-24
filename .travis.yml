@@ -8,4 +8,5 @@ node_js:
   - "0.10"
   - "0.8"
   - "0.6"
+before_install: cd src && npm install
 script: cd src && npm test
