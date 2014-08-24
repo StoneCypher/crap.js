@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "crap.js",
   "description": "Complete React Application Platform for JS",
-  "version": "0.2.1",
+  "version": "0.3.1",
   "repository": {
     "url": "https://github.com/StoneCypher/crap.js"
   },
@@ -53,6 +53,7 @@
     "gulp-sprite-glue": "*",
     "vows": "*",
     "pedant": "*",
+    "supertest": "*",
     "webpack": "*",
     "react": "*",
     "react-router": "*"
@@ -61,6 +62,6 @@
     "node": "*"
   },
   "scripts": {
-    "test": "vows --spec"
+    "test": "vows test/* --spec"
   }
 }
