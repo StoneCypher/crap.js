@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "crap.js",
   "description": "Complete React Application Platform for JS",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "url": "https://github.com/StoneCypher/crap.js"
   },
@@ -30,7 +30,11 @@
   "bin": {
     "choprify": "./bin/crap"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vows": "*",
+    "pedant": "*",
+    "gulp": "*"
+  },
   "peerDependencies": {
     "gulp": "*",
     "gulp-clean": "*",
@@ -47,6 +51,8 @@
     "gulp-minify-css": "*",
     "gulp-kss": "*",
     "gulp-sprite-glue": "*",
+    "vows": "*",
+    "pedant": "*",
     "webpack": "*",
     "react": "*",
     "react-router": "*"
@@ -54,5 +60,7 @@
   "engines": {
     "node": "*"
   },
-  "scripts": {}
+  "scripts": {
+    "test": "vows --spec"
+  }
 }
