@@ -9,7 +9,7 @@ Complete React Application Platform for JS - crap.js
 
 [![NPM Downloads](http://img.shields.io/npm/dm/crap.js.svg)](https://npmjs.org/package/crap.js)
 
-!()[https://nodei.co/npm/crap.js.png?stars=true&downloads=true]
+![](https://nodei.co/npm/crap.js.png?stars=true&downloads=true)
 
 
 
