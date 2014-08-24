@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "crap.js",
   "description": "Complete React Application Platform for JS",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "url": "https://github.com/StoneCypher/crap.js"
   },
@@ -32,28 +32,24 @@
   },
   "dependencies": {},
   "peerDependencies": {
-
-    "gulp"               : "*",
-    "gulp-clean"         : "*",
-    "gulp-less"          : "*",
-    "gulp-bump"          : "*",
-    "gulp-uglifyjs"      : "*",
-    "gulp-yuidoc"        : "*",
-    "gulp-sloc"          : "*",
-    "gulp-manifest"      : "*",
-    "gulp-stylestats"    : "*",
-    "gulp-sitemap-files" : "*",
-    "gulp-todos"         : "*",
-    "gulp-react"         : "*",
-    "gulp-minify-css"    : "*",
-    "gulp-kss"           : "*",
-    "gulp-sprite-glue"   : "*",
-
-    "webpack"            : "*",
-
-    "react"              : "*",
-    "react-router"       : "*"
-
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-less": "*",
+    "gulp-bump": "*",
+    "gulp-uglifyjs": "*",
+    "gulp-yuidoc": "*",
+    "gulp-sloc": "*",
+    "gulp-manifest": "*",
+    "gulp-stylestats": "*",
+    "gulp-sitemap-files": "*",
+    "gulp-todos": "*",
+    "gulp-react": "*",
+    "gulp-minify-css": "*",
+    "gulp-kss": "*",
+    "gulp-sprite-glue": "*",
+    "webpack": "*",
+    "react": "*",
+    "react-router": "*"
   },
   "engines": {
     "node": "*"
