@@ -52,7 +52,7 @@
     "gulp-kss": "*",
     "gulp-sprite-glue": "*",
     "gulp-jshint": "*",
-    "gulp-jshint-stylish": "*",
+    "jshint-stylish": "*",
     "vows": "*",
     "pedant": "*",
     "supertest": "*",
