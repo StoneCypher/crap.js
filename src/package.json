@@ -2,7 +2,7 @@
   "author": "John Haugeland",
   "name": "crap.js",
   "description": "Complete React Application Platform for JS",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "repository": {
     "url": "https://github.com/StoneCypher/crap.js"
   },
@@ -51,8 +51,6 @@
     "gulp-minify-css": "*",
     "gulp-kss": "*",
     "gulp-sprite-glue": "*",
-    "gulp-jshint": "*",
-    "jshint-stylish": "*",
     "vows": "*",
     "pedant": "*",
     "supertest": "*",
