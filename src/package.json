@@ -33,6 +33,7 @@
   "dependencies": {
     "vows": "*",
     "pedant": "*",
+    "gulp-strip-react-dom-comment": "*",
     "gulp": "*"
   },
   "peerDependencies": {
@@ -55,7 +56,6 @@
     "pedant": "*",
     "supertest": "*",
     "webpack": "*",
-    "gulp-strip-react-dom-comment": "*",
     "react": "*",
     "react-router": "*"
   },
