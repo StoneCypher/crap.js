@@ -7,8 +7,6 @@ Complete React Application Platform for JavaScript
 ![Platform](http://img.shields.io/badge/Platform-NPM-000000.svg) &nbsp;
 ![License](http://img.shields.io/badge/License-MIT-000055.svg) &nbsp;
 ![Status](http://img.shields.io/travis/StoneCypher/crap.js.svg) &nbsp;
-![Release](http://img.shields.io/github/release/StoneCypher/crap.js.svg) &nbsp;
-[![Issues](http://img.shields.io/github/issues/StoneCypher/crap.js.svg)](https://github.com/StoneCypher/crap.js/issues)
 
 [![NPM Downloads](http://img.shields.io/npm/dm/crap.js.svg)](https://npmjs.org/package/crap.js)
 

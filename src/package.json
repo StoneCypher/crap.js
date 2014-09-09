@@ -55,6 +55,7 @@
     "pedant": "*",
     "supertest": "*",
     "webpack": "*",
+    "gulp-strip-react-dom-comment": "*",
     "react": "*",
     "react-router": "*"
   },
