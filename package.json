@@ -1,0 +1,30 @@
+{
+  "name": "crap.js",
+  "version": "1.0.0",
+  "description": "Complete React Application Platform - CRAP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StoneCypher/crap.js.git"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "babel",
+    "plato",
+    "istanbul",
+    "less",
+    "eslint",
+    "browserify",
+    "platform"
+  ],
+  "author": "John Haugeland <stonecypher@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/crap.js/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/crap.js#readme"
+}
